@@ -1,0 +1,11 @@
+python-dotenv==1.1.1
+jupyterlab==4.4.9
+pypdf==6.1.1
+pysqlite3==0.5.4
+pandas==2.3.3
+
+langchain==0.3.27
+langchain-google-genai==2.1.12
+langchain-community==0.3.30
+langchain-chroma==0.2.6
+langgraph==0.6.7
